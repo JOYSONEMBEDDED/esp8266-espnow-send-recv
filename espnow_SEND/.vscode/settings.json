@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "time.h": "c",
+        "espnow_example.h": "c",
+        "compare": "c"
+    }
+}
